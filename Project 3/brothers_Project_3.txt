@@ -1,0 +1,28 @@
+Khembe Brothers
+CEN 4802
+Project 3 Requirements (Github upload)
+
+
+I.	The calculator shall include the Arabic Numerals 0 through 9.
+
+II.	The calculator shall possess multiplication, division, addition, and subtraction operators.
+
+III.	The calculator shall possess an equal sign.
+	
+IV.	The calculator shall possess a decimal point.
+
+V.	The calculator shall possess left and right parentheses.
+
+VI.	The calculator shall display characters as they are typed.
+
+VII.	The calculator shall display calculation results when the equal sign is pressed.
+
+VIII.	Arithmetic operators shall operate according to algebraic precedence.
+
+	a.	The calculator shall perform multiplication and division before addition or subtraction.
+
+	b.	The calculator shall perform operations within parentheses first.
+
+IX. 	 The calculator shall be able to conduct exponent calculations.
+
+X. 	The calculator shall be able to clear its memory.
